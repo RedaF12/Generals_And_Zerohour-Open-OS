@@ -2,8 +2,8 @@
 
 اول محرك معدل يعمل علي منصات : Android / Desktop / Linux
 
-""Desktop V1.6 Coming Soon
+""Desktop Beta V1.6 Coming Soon
 
-""Android V1.0 Coming Soon
+""Android APK Alpha V1.0 Coming Soon
 
-""""Linux V0.1 Coming Soon
+""""Linux APP Alpha V0.1 Coming Soon
